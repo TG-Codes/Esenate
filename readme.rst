@@ -1,7 +1,7 @@
 ###################
 Welcome to Esenate
 ###################
-E-senate Solves the problem of connecting Nigerians with theri senators
+E-senate Solves the problem of connecting Nigerians with their senators
 *******************
 Release Information
 *******************
